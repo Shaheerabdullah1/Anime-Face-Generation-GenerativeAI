@@ -1,7 +1,7 @@
 
 # AnimeFaces: Exploring Generative Models with VAEs, GANs, and DCGANs
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a **comparative analysis** of three popular generative deep learning models:
 - **Variational Autoencoders (VAEs)**
@@ -14,7 +14,7 @@ anime faces with a single click.
 
 ---
 
-## 🧠 Author
+## Author
 
 **Shaheer Abdullah**  
 Department of Computer Science  
@@ -22,16 +22,16 @@ National University of Computer & Emerging Sciences (NUCES), Islamabad
 
 ---
 
-## 🖼️ Model Comparison Result
+## Model Comparison Result
 
 This project compares the quality of generated images using VAE, GAN, and DCGAN models.
 
 Only this image is added as requested:  
-![Model Comparison](assets/model_comparison.png)
+![Model Comparison](model_comparison.png)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── Anime-Face-Generation-DCGANs.ipynb
@@ -51,27 +51,27 @@ Only this image is added as requested:
 
 ## ⚙️ Installation & Setup
 
-### ✅ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/anime-face-generation.git
 cd anime-face-generation
 ```
 
-### ✅ Create Virtual Environment
+### Create Virtual Environment
 ```bash
 python -m venv env
 source env/bin/activate      # On Mac/Linux
 env\Scripts\activate       # On Windows
 ```
 
-### ✅ Install Dependencies
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-## 🚀 Run the Anime Face Generator (`app.py`)
+## Run the Anime Face Generator (`app.py`)
 
 ```bash
 python app.py
@@ -86,7 +86,7 @@ This will launch a local web app where users can generate anime faces with a but
 
 ---
 
-## 📊 Results & Observations
+## Results & Observations
 
 | Model   | Visual Quality | Sharpness | Diversity | Notes                         |
 |---------|----------------|-----------|-----------|-------------------------------|
@@ -96,7 +96,7 @@ This will launch a local web app where users can generate anime faces with a but
 
 ---
 
-## 🧪 Dataset
+## Dataset
 
 - **Source:** Kaggle Anime Faces Dataset  
 - **Images:** 21,551 cropped anime face images  
@@ -105,7 +105,7 @@ This will launch a local web app where users can generate anime faces with a but
 
 ---
 
-## 📚 References
+## References
 
 Please refer to the detailed research citations in your provided PDF/LaTeX file. They include works like:
 - StyleGAN2 (Karras et al., 2020)
@@ -114,7 +114,7 @@ Please refer to the detailed research citations in your provided PDF/LaTeX file.
 
 ---
 
-## 📜 License & Citation
+## License & Citation
 
 If you use this repository for academic or research purposes, please cite:
 
@@ -129,12 +129,12 @@ If you use this repository for academic or research purposes, please cite:
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this repository useful:
-✅ Star the repo  
-✅ Share it with others  
-✅ Connect with me for collaborations
+ Star the repo  
+ Share it with others  
+Connect with me for collaborations
 
 ---
 
