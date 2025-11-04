@@ -49,7 +49,7 @@ Only this image is added as requested:
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Clone the Repository
 ```bash
